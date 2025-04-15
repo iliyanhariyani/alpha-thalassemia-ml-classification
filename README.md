@@ -5,8 +5,8 @@ This project applies machine learning models to classify alpha thalassemia pheno
 - **Alpha Carrier vs Normal** (`alphanorm`)
 
 ## Contents
-- `alphanorm/`: Contains the dataset, notebook, model outputs, and analysis for the **alpha carrier vs normal** classification task.
-- `twoalphas/`: Contains the dataset, notebook, model outputs, and analysis for the **alpha trait vs silent carrier** classification task.
+- `alphanorm/`: Contains the dataset and notebook for the **alpha carrier vs normal** classification task.
+- `twoalphas/`: Contains the dataset and notebook for the **alpha trait vs silent carrier** classification task.
 
 ## Methods
 - Classical ML: Logistic Regression, SVM, Random Forest, AdaBoost
