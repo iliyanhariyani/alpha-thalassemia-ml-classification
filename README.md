@@ -1,4 +1,4 @@
-# Enhancing Alpha Thalassemia Phenotype Classification using Machine Learning
+# Alpha Thalassemia Classification Comparative Analysis
 
 This project applies machine learning models to classify alpha thalassemia phenotypes using CBC (Complete Blood Count) data. It focuses on two classification tasks:
 - **Alpha Trait vs Silent Carrier** (`twoalphas`)
